@@ -1,5 +1,3 @@
 # launch_rust_project1
-fn main(){
-  //haro-world!
-  println!("Hello,world!");
-}
+
+2021年1月17日 rust 始めました。
